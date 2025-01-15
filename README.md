@@ -76,6 +76,3 @@ For inquiries or collaborations, reach out via:
 - **Email:** meritbhusal@example.com
 - **LinkedIn:** [linkedin.com/in/merit-bhusal](https://www.linkedin.com/in/merit-bhusal-53304832b/)
 - **GitHub:** [github.com/meritbh](https://github.com/meritbh)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
