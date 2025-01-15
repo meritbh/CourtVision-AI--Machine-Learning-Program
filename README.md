@@ -32,7 +32,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/courtvision-ai.git
+   git clone https://github.com/meritbh/courtvision-ai.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -73,9 +73,9 @@ CourtVision AI is not just a prediction tool—it’s a showcase of advanced mac
 
 ## Contact
 For inquiries or collaborations, reach out via:
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub](https://github.com/yourusername)
+- **Email:** meritbhusal@example.com
+- **LinkedIn:** [linkedin.com/in/merit-bhusal](https://www.linkedin.com/in/merit-bhusal-53304832b/)
+- **GitHub:** [github.com/meritbh](https://github.com/meritbh)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
